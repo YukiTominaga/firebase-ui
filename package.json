@@ -1,0 +1,14 @@
+{
+  "name": "firebase-ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^8.2.2",
+    "firebaseui": "^4.7.1",
+    "ics": "^2.26.2"
+  },
+  "devDependencies": {
+    "source-map-loader": "^2.0.0"
+  }
+}
